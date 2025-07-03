@@ -8,5 +8,5 @@
 	    $(this).removeClass('xepo_ads');
 
 	    //ubah google dengan ads direct link
-	    window.open('https://www.highperformanceformat.com/zphvebbzh?key=b3be47ef4c8f10836b76435c09e7184f', '_blank');
+	    window.open('https://www.profitableratecpm.com/zphvebbzh?key=b3be47ef4c8f10836b76435c09e7184f);
 	});
